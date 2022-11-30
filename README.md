@@ -36,18 +36,19 @@ Options:
 
 ## Running
 
-Prerequisites:
-    
+**Prerequisites**:
 
-### Via the binary
+IDK lol
+
+**Steps**:
 
 1. Look in the `/Output` directory, there should be a generated x64 binary named `ifr.exe`.
-2. Execute it using a terminal with the command `./ifr.exe` followed by a command, command input, and then options.
+2. Execute it in a terminal using the command `./ifr.exe` followed by a command, command input, and options.
     * Note: Solely executing `./ifr.exe` will automatically use the `help` command.
 
-### Via building
+### Building
 
-Prerequisites:
+**Prerequisites**:
     * A C++ compiler that supports the C++20 standard (e.g. Clang and GCC).
     * [GNU Make](https://www.gnu.org/software/make).
 
